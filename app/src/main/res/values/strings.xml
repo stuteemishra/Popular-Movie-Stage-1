@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again by clicking REFRESH
+    </string>
+
+    <string name="action_refresh">REFRESH</string>
+
+    <string name="action_popular">Most Popular</string>
+
+    <string name="action_highest_rated">Top rated</string>
+
+    <string name="action_title"><b>Original Title:</b></string>
+
+    <string name="action_overview"><b>Overview:</b> </string>
+
+    <string name="action_date"><b>Release Date:</b> </string>
+
+    <string name="action_rating"><b>Rating:</b></string>
+</resources>
